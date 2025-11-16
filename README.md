@@ -50,6 +50,7 @@ The goal is to provide a data-driven approach that financial institutions (or an
 
 ## 📂 Project Structure
 
+```text
 Zillow-House-Price-Prediction/
 ├── assets/
 ├── dashboards/
