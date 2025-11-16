@@ -1,12 +1,14 @@
 #  💳 Credit Defaulting Detection
 
-![Built with Python](https://img.shields.io/badge/Built%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/ML-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)  
-![Pandas](https://img.shields.io/badge/Library-pandas-150458?style=flat-square&logo=pandas)  
-![NumPy](https://img.shields.io/badge/Library-NumPy-013243?style=flat-square&logo=numpy)  
-![Matplotlib](https://img.shields.io/badge/Plots-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)  
-![MIT License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+![Python](https://img.shields.io/badge/Built%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Library-pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/Library-NumPy-013243?style=flat-square&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/ML-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Plots-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Tableau](https://img.shields.io/badge/Visualized%20with-Tableau-E97627?style=flat-square&logo=tableau)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellowgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 ---
 
@@ -56,7 +58,7 @@ Zillow-House-Price-Prediction/
 ├── model.ipynb   
 └── README.md
 
-##🔭 Future Work
+## 🔭 Future Work
 
 Try more advanced models (e.g., LightGBM, XGBoost, neural networks)
 Use explainability tools like SHAP to interpret predictions
